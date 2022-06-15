@@ -1,4 +1,4 @@
-# Vehicle-and-Pedestrian-Detection-Using-Haar-Cascade
+# Vehicle and Pedestrian Detection Using Haar Cascade
 Main Project (2022)
 
 ### Abstract
